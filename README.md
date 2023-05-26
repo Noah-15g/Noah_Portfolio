@@ -1,7 +1,7 @@
 # Noah_Portfolio
 Data Science &amp; Machine Learning Portfolio
 
-# Project 1: Concrete Crack Recognition, Convolutional Neural Network
+# Project 1: Concrete Crack Recognition, Neural Network
 * dataset of 20,000 cracked/not cracked jpg images, even class split.
 * Created Convolutional Neural Network, random forest classifier, k nearest neighbors models.
 * Neural Netowrk Interpretation 
