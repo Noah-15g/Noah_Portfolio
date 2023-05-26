@@ -6,7 +6,7 @@ Data Science &amp; Machine Learning Portfolio
 * Created Convolutional Neural Network, random forest classifier, k nearest neighbors models.
 * Neural Netowrk Interpretation 
 
-# [Project 2: Separate Circles](https://github.com/Noah-15g/Noah_Portfolio/blob/main/MkCircles.ipynb)
+# [Project 2: Separate Circles](https://github.com/Noah-15g/Noah_Portfolio/blob/e8e6d42402d052dbea9a5375d03dfac2e9ea723f/Separate_Circles.ipynb)
 * Created Support Vector Classifier model, utilizing Radial Basis Function Kernel Machine.
 * Used Bayesian Optimization to optimize hyperparameters
 * Plotted support vector visualizations 
