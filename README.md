@@ -10,7 +10,7 @@ Data Science &amp; Machine Learning Portfolio
 * Created Support Vector Classifier model, utilizing Radial Basis Function Kernel Machine.
 * Used Bayesian Optimization to optimize hyperparameters
 
-# Project 3: Computer Performace Score Regression and Feature Importance
-* Created Random Forest Regression model to extract feature importance 
+# [Project 3: Steel Strength Regression and Feature Importance]()
+* Created Random Forest Regression model to use for extracting feature importance 
 * Created Individual Conditional Expectation plots and Partial Dependence Plots 
 * Shapley Value plots
