@@ -10,7 +10,7 @@ Data Science &amp; Machine Learning Portfolio
 * Created Support Vector Classifier model, utilizing Radial Basis Function Kernel Machine.
 * Used Bayesian Optimization to optimize hyperparameters
 
-# [Project 3: Steel Strength Regression and Feature Importance](https://github.com/Noah-15g/Noah_Portfolio/blob/2ca43f6e65dabc5b6333f5a155f726edd4d37265/Steel_Strength_Regression.ipynb)
+# [Project 3: Steel Strength Regression and Feature Importance](https://github.com/Noah-15g/Noah_Portfolio/blob/44e07f31ec2006bbf57a039a8002aa829f15d4e0/Steel_Strength_Regression%20(1).ipynb)
 * Created Random Forest Regression model to use for extracting feature importance 
 * Created Individual Conditional Expectation plots and Partial Dependence Plots 
 * Shapley Value plots
