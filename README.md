@@ -8,10 +8,9 @@ About Me:
 * Created Individual Conditional Expectation plots and Partial Dependence Plots 
 * Shapley Value plots
  
-# Concrete Crack Recognition, Neural Network
+# [Concrete Crack Recognition, Neural Network](https://github.com/Noah-15g/Noah_Portfolio/blob/f4c8659f07d1c9df83feb928838960c57ef1075a/Infrastructure_Midterm%20(1).ipynb)
 * dataset of 20,000 cracked/not cracked jpg images, even class split.
 * Created Convolutional Neural Network, random forest classifier, k nearest neighbors models.
-* Neural Network Interpretation 
 
 # [Separate Circles](https://github.com/Noah-15g/Noah_Portfolio/blob/e8e6d42402d052dbea9a5375d03dfac2e9ea723f/Separate_Circles.ipynb)
 * Created Support Vector Classifier model, utilizing Radial Basis Function Kernel Machine.
