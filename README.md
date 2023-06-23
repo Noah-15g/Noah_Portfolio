@@ -2,7 +2,7 @@
 Data Science &amp; Machine Learning Portfolio
 
 About Me: 
-Recent Virginia Tech Grad with 3+ years experience coding advanced data analytics solutions. Experience in ETL, MySQL, AWS and state of the art machine learning and explainable AI techniques in python. Looking for a job as a Data analyst engineer, machine learning/AI engineer, or related position. Given the opportunnity, I am confident I will apply my proven machine learning skillset to creating value for your company. Below are three projects showcasing some ambitious and accurate machine learning algorithms working towards real life solutions.
+Recent Virginia Tech Grad with 3+ years experience coding advanced data analytics solutions. Experience in ETL, MySQL, AWS and state of the art machine learning and explainable AI techniques in python. Looking for a job as a Data analyst engineer, machine learning/AI engineer, or related position. Given the opportunity, I am confident I will apply my proven machine learning skillset to creating value for your company. Below are three projects showcasing some ambitious and accurate machine learning algorithms working towards real life solutions.
 
 # [Steel Strength Regression and Feature Importance](https://github.com/Noah-15g/Noah_Portfolio/blob/44e07f31ec2006bbf57a039a8002aa829f15d4e0/Steel_Strength_Regression%20(1).ipynb)
 * Created Random Forest Regression model to use for extracting feature importance 
