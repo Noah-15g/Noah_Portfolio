@@ -16,3 +16,7 @@ Recent Virginia Tech Grad with 3+ years experience coding advanced data analytic
 # [Separate Circles](https://github.com/Noah-15g/Noah_Portfolio/blob/e8e6d42402d052dbea9a5375d03dfac2e9ea723f/Separate_Circles.ipynb)
 * Support Vector Classifier model, utilizing Radial Basis Function Kernel Machine
 * Bayesian Optimization for optimizing hyperparameters
+
+Contact Info: 
+email: noahtbro@gmail.com
+phone: (571) 342-7628
