@@ -1,5 +1,5 @@
 # Noah_Portfolio
-#Data Science &amp; Machine Learning Portfolio
+Data Science &amp; Machine Learning Portfolio
 
 About Me: 
 Recent Virginia Tech Grad with 3+ years experience coding advanced data analytics solutions. Experience in state of the art machine learning and explainable AI techniques in python. Proficient in ETL, MySQL, and AWS. Looking for a job as a Data analyst engineer, machine learning/AI engineer, or related position. Given the opportunity, I am confident I will apply my proven machine learning skillset to creating value for your company. Below are three projects showcasing some of my machine learning algorithms put towards real life solutions.
