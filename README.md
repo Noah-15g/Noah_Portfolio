@@ -18,5 +18,5 @@ Recent Virginia Tech Grad with 3+ years experience coding advanced data analytic
 * Bayesian Optimization for optimizing hyperparameters
 
 Contact Info: 
-email: noahtbro@gmail.com
+email: noahgallagher985@gmail.com
 phone: (571) 342-7628
